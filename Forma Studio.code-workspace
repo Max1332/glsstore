@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "forma-studio",
+			"path": "../../forma-studio"
+		}
+	],
+	"settings": {}
+}
